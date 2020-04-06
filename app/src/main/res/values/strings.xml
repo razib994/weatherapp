@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather_api_key">d0b941339d6f075686460c7fe0912041</string>
+    <string name="forcas_api_key">d0b941339d6f075686460c7fe0912041</string>
+
+</resources>
